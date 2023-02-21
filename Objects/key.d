@@ -1,0 +1,12 @@
+.\objects\key.o: USER\src\key.c
+.\objects\key.o: .\USER\inc\key.h
+.\objects\key.o: .\CMSIS\sys.h
+.\objects\key.o: .\CMSIS\stm32f4xx.h
+.\objects\key.o: .\CMSIS\core_cm4.h
+.\objects\key.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\key.o: .\CMSIS\core_cmInstr.h
+.\objects\key.o: .\CMSIS\core_cmFunc.h
+.\objects\key.o: .\CMSIS\core_cm4_simd.h
+.\objects\key.o: .\CMSIS\system_stm32f4xx.h
+.\objects\key.o: .\SYSTEM\inc\delay.h
+.\objects\key.o: .\SYSTEM\inc\sys.h

@@ -1,0 +1,10 @@
+.\objects\hp6_iic.o: USER\src\hp6_IIC.c
+.\objects\hp6_iic.o: .\CMSIS\stm32f4xx.h
+.\objects\hp6_iic.o: .\CMSIS\core_cm4.h
+.\objects\hp6_iic.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\hp6_iic.o: .\CMSIS\core_cmInstr.h
+.\objects\hp6_iic.o: .\CMSIS\core_cmFunc.h
+.\objects\hp6_iic.o: .\CMSIS\core_cm4_simd.h
+.\objects\hp6_iic.o: .\CMSIS\system_stm32f4xx.h
+.\objects\hp6_iic.o: .\SYSTEM\inc\delay.h
+.\objects\hp6_iic.o: .\SYSTEM\inc\sys.h

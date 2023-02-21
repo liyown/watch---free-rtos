@@ -1,0 +1,13 @@
+.\objects\i2c.o: SYSTEM\src\i2c.c
+.\objects\i2c.o: .\SYSTEM\inc\i2c.h
+.\objects\i2c.o: .\SYSTEM\inc\sys.h
+.\objects\i2c.o: .\CMSIS\stm32f4xx.h
+.\objects\i2c.o: .\CMSIS\core_cm4.h
+.\objects\i2c.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\i2c.o: .\CMSIS\core_cmInstr.h
+.\objects\i2c.o: .\CMSIS\core_cmFunc.h
+.\objects\i2c.o: .\CMSIS\core_cm4_simd.h
+.\objects\i2c.o: .\CMSIS\system_stm32f4xx.h
+.\objects\i2c.o: .\SYSTEM\inc\delay.h
+.\objects\i2c.o: .\SYSTEM\inc\usart.h
+.\objects\i2c.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h

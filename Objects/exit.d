@@ -1,0 +1,15 @@
+.\objects\exit.o: USER\src\exit.c
+.\objects\exit.o: .\USER\inc\exit.h
+.\objects\exit.o: .\CMSIS\sys.h
+.\objects\exit.o: .\CMSIS\stm32f4xx.h
+.\objects\exit.o: .\CMSIS\core_cm4.h
+.\objects\exit.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\exit.o: .\CMSIS\core_cmInstr.h
+.\objects\exit.o: .\CMSIS\core_cmFunc.h
+.\objects\exit.o: .\CMSIS\core_cm4_simd.h
+.\objects\exit.o: .\CMSIS\system_stm32f4xx.h
+.\objects\exit.o: .\USER\inc\key.h
+.\objects\exit.o: .\SYSTEM\inc\delay.h
+.\objects\exit.o: .\SYSTEM\inc\sys.h
+.\objects\exit.o: .\USER\inc\motor.h
+.\objects\exit.o: .\USER\inc\led.h

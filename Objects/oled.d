@@ -1,0 +1,14 @@
+.\objects\oled.o: USER\src\oled.c
+.\objects\oled.o: .\USER\inc\oled.h
+.\objects\oled.o: .\CMSIS\sys.h
+.\objects\oled.o: .\CMSIS\stm32f4xx.h
+.\objects\oled.o: .\CMSIS\core_cm4.h
+.\objects\oled.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\oled.o: .\CMSIS\core_cmInstr.h
+.\objects\oled.o: .\CMSIS\core_cmFunc.h
+.\objects\oled.o: .\CMSIS\core_cm4_simd.h
+.\objects\oled.o: .\CMSIS\system_stm32f4xx.h
+.\objects\oled.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\oled.o: .\USER\inc\oledfont.h
+.\objects\oled.o: .\SYSTEM\inc\delay.h
+.\objects\oled.o: .\SYSTEM\inc\sys.h
